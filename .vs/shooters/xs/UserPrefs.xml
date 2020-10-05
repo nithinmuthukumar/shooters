@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{60719B68-7831-EAC2-5B3C-7A99136C9F47}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerStats.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Movement.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="23" Column="1" />
+      <File FileName="Assets/Scripts/Stats.cs" Line="16" Column="5" />
+      <File FileName="Assets/Scripts/Shoot.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BulletStats.cs" Line="8" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="shooters" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name=".idea" expanded="True" />
+                <Node name="PlayerStats.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="724714df-a76f-4647-8a0e-72211fa66f64" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
